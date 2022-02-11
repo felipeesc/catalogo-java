@@ -1,0 +1,10 @@
+com\projeto\catalogo\domain\dto\PlayersDTO.class
+com\projeto\catalogo\CatalogoApplication.class
+com\projeto\catalogo\domain\Players$PlayersBuilder.class
+com\projeto\catalogo\repository\PlayersRepository.class
+com\projeto\catalogo\domain\dto\PlayersDTO$PlayersDTOBuilder.class
+com\projeto\catalogo\service\CalculateService.class
+com\projeto\catalogo\controller\PlayersController.class
+com\projeto\catalogo\domain\Players.class
+com\projeto\catalogo\controller\CalculateController.class
+com\projeto\catalogo\service\PlayersService.class

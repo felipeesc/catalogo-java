@@ -1,0 +1,5 @@
+com\projeto\catalogo\controller\PocControllerTest.class
+com\projeto\catalogo\integration\PocControllerIT.class
+com\projeto\catalogo\service\PocServiceTest.class
+com\projeto\catalogo\util\PlayersCreator.class
+com\projeto\catalogo\CatalogoApplicationTests.class

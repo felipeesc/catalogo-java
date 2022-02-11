@@ -1,0 +1,13 @@
+spring.application.name: POC
+
+spring:
+  r2dbc:
+    url: r2dbc:postgresql://localhost:5432/postgres?schema=poc
+    username: root
+    password: root
+logging:
+  level:
+    springframework:
+      data:
+        r2dbc: DEBUG
+
